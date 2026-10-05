@@ -87,3 +87,14 @@ In this practical, we implemented Prim’s Algorithm to find the Minimum Spannin
 ## Conclusion
 
 Through this practical, we learned how Prim’s Algorithm can be used to connect all the vertices of a weighted graph with minimum total cost. We understood how the algorithm gradually builds the Minimum Spanning Tree by choosing the smallest suitable edge at each step.Implementing the algorithm using Python made the concept easier to understand because we could see how the selected vertices and edges change step by step. Overall, this practical helped us understand Minimum Spanning Trees, greedy algorithms, and the practical use of Prim’s Algorithm.
+
+
+# Practical 10
+
+## Summary
+
+In this practical, we implemented Kruskal’s Algorithm to find the Minimum Spanning Tree (MST) of a weighted graph. The algorithm first sorts all the edges according to their weights and then selects the edges one by one. An edge is added to the MST only when it does not create a cycle.The program uses the Find and Union operations to keep track of connected vertices and avoid forming cycles. It uses five vertices A, B, C, D, and E with weighted edges and finally displays the selected MST edges along with their total cost.
+
+## Conclusion
+
+Through this practical, we learned how Kruskal’s Algorithm can be used to connect all the vertices of a weighted graph with minimum total cost. We understood how sorting the edges and checking for cycles helps in building the Minimum Spanning Tree step by step.Implementing the algorithm in Python made the concept easier to understand, especially how the Find and Union operations help in deciding whether an edge can be safely added. Overall, this practical gave us a better understanding of greedy algorithms, Minimum Spanning Trees, and cycle detection.
