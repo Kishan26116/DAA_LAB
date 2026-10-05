@@ -54,3 +54,14 @@ In this practical, we implemented Matrix Chain Multiplication using Dynamic Prog
 ## Conclusion
 
 Through this practical, we learned how Dynamic Programming can be used to solve the Matrix Chain Multiplication problem efficiently. We understood that the order in which matrices are multiplied can greatly affect the number of calculations required, even though the final result remains the same.The practical helped us understand how a DP table can store previously calculated results and use them to find the minimum multiplication cost.
+
+
+# Practical 7
+
+## Summary
+
+In this practical, we implemented the Making Change Problem using Dynamic Programming. The program takes a set of coin denominations and a target amount from the user. It uses a dynamic programming array to find the minimum number of coins required to make the given amount.The program checks each amount step by step and compares the available coins to find the best possible combination. If the given amount cannot be formed using the available coins, the program displays an appropriate message. It also calculates the execution time and displays the time and space complexity.
+
+## Conclusion
+
+Through this practical, we learned how Dynamic Programming can be used to solve the Making Change Problem efficiently. Instead of calculating the same values repeatedly, the program stores previously calculated results and uses them to find the minimum number of coins.This practical helped us understand how a real-life problem like finding the minimum number of coins can be solved using an algorithmic approach. Overall, it improved our understanding of dynamic programming, optimal solutions, and the importance of reducing repeated calculations.
