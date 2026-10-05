@@ -21,3 +21,14 @@ In this practical, we implemented two important searching techniques in Python: 
 ## Conclusion
 
 Through this practical, we understood how searching algorithms can be used to find a particular element from a collection of data. We learned that Linear Search is simple and can work directly on an unsorted array, but it may take more time when the number of elements is large.
+
+
+# Practical 3
+
+## Summary
+
+In this practical, Max Heap Sort was implemented using Python. The program takes the elements from the user, builds a Max Heap, and repeatedly moves the largest element to its correct position to obtain the sorted array. The program also measures the execution time and displays the time and space complexity.
+
+## Coclusion
+
+Through this practical, we learned how Max Heap Sort works and how the heap data structure can be used for sorting elements efficiently. The practical gave us a better understanding of building a Max Heap, comparing parent and child elements, and repeatedly extracting the largest element.
