@@ -43,3 +43,14 @@ In this practical, we implemented the factorial of a number using two different 
 ## Conclusion
 
 Through this practical, we learned how the same problem can be solved using both iteration and recursion. The iterative approach is straightforward and uses less memory, while recursion provides a simpler way to represent the factorial calculation through repeated function calls.Overall, this practical helped us understand the basic difference between iteration and recursion and how their space requirements can vary even when their time complexity is the same. It also gave us practical experience in measuring the execution time of both approaches.
+
+
+# Practical 6
+
+## Summary
+
+In this practical, we implemented Matrix Chain Multiplication using Dynamic Programming. The program takes the dimensions of the matrices from the user and uses a dynamic programming table to find the most efficient way to multiply the matrices. Instead of trying all possible multiplication orders directly, the program checks different split positions and stores the minimum multiplication cost for each part of the chain.
+
+## Conclusion
+
+Through this practical, we learned how Dynamic Programming can be used to solve the Matrix Chain Multiplication problem efficiently. We understood that the order in which matrices are multiplied can greatly affect the number of calculations required, even though the final result remains the same.The practical helped us understand how a DP table can store previously calculated results and use them to find the minimum multiplication cost.
