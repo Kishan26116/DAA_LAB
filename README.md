@@ -76,3 +76,14 @@ In this practical, we implemented Breadth First Search (BFS) and Depth First Sea
 ## Conclusion
 
 Through this practical, we learned the basic working of BFS and DFS and how they can be implemented using an adjacency list. BFS is useful when we want to explore a graph level by level, whereas DFS is useful when we want to follow a path deeply before backtracking.Overall, this practical helped us understand graph traversal in a simple and practical way. Implementing both algorithms also made it easier to see the difference between using a queue in BFS and recursion in DFS.
+
+
+# Practical 9
+
+## Summary
+
+In this practical, we implemented Prim’s Algorithm to find the Minimum Spanning Tree (MST) of a weighted graph. The graph contains four vertices A, B, C, and D, and is represented using an adjacency matrix. The algorithm starts from vertex A and repeatedly selects the smallest-weight edge that connects a selected vertex to an unselected vertex.The program keeps track of the selected vertices, adds the appropriate edges to the Minimum Spanning Tree, and calculates the total cost of the selected edges.
+
+## Conclusion
+
+Through this practical, we learned how Prim’s Algorithm can be used to connect all the vertices of a weighted graph with minimum total cost. We understood how the algorithm gradually builds the Minimum Spanning Tree by choosing the smallest suitable edge at each step.Implementing the algorithm using Python made the concept easier to understand because we could see how the selected vertices and edges change step by step. Overall, this practical helped us understand Minimum Spanning Trees, greedy algorithms, and the practical use of Prim’s Algorithm.
