@@ -64,4 +64,15 @@ In this practical, we implemented the Making Change Problem using Dynamic Progra
 
 ## Conclusion
 
-Through this practical, we learned how Dynamic Programming can be used to solve the Making Change Problem efficiently. Instead of calculating the same values repeatedly, the program stores previously calculated results and uses them to find the minimum number of coins.This practical helped us understand how a real-life problem like finding the minimum number of coins can be solved using an algorithmic approach. Overall, it improved our understanding of dynamic programming, optimal solutions, and the importance of reducing repeated calculations.
+Through this practical, we learned how Dynamic Programming can be used to solve the Making Change Problem efficiently. Instead of calculating the same values repeatedly, the program stores previously calculated results and uses them to find the minimum number of coins.This practical helped us understand how a real-life problem like finding the minimum number of coins can be solved using an algorithmic approach.
+
+
+# Practical 8
+
+## Summary
+
+In this practical, we implemented Breadth First Search (BFS) and Depth First Search (DFS) using an adjacency list to represent a graph. BFS uses a queue to visit the nodes level by level, while DFS uses recursion to explore one path as deeply as possible before moving to another path.By implementing both methods, we understood how graph traversal works and how the same graph can be explored in different ways depending on the algorithm used.
+
+## Conclusion
+
+Through this practical, we learned the basic working of BFS and DFS and how they can be implemented using an adjacency list. BFS is useful when we want to explore a graph level by level, whereas DFS is useful when we want to follow a path deeply before backtracking.Overall, this practical helped us understand graph traversal in a simple and practical way. Implementing both algorithms also made it easier to see the difference between using a queue in BFS and recursion in DFS.
