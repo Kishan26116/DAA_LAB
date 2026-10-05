@@ -29,6 +29,17 @@ Through this practical, we understood how searching algorithms can be used to fi
 
 In this practical, Max Heap Sort was implemented using Python. The program takes the elements from the user, builds a Max Heap, and repeatedly moves the largest element to its correct position to obtain the sorted array. The program also measures the execution time and displays the time and space complexity.
 
-## Coclusion
+## Conclusion
 
 Through this practical, we learned how Max Heap Sort works and how the heap data structure can be used for sorting elements efficiently. The practical gave us a better understanding of building a Max Heap, comparing parent and child elements, and repeatedly extracting the largest element.
+
+
+# Practical 4
+
+## Summary
+
+In this practical, we implemented the factorial of a number using two different methods: iteration and recursion. In the iterative method, a for loop is used to multiply the numbers from 1 up to the given number. In the recursive method, the function repeatedly calls itself with a smaller value until it reaches the base case.The practical also helped us compare the time and space requirements of both approaches. Both methods have a time complexity of O(n), but the iterative method uses O(1) space, while the recursive method uses O(n) space because of the recursive function calls.
+
+## Conclusion
+
+Through this practical, we learned how the same problem can be solved using both iteration and recursion. The iterative approach is straightforward and uses less memory, while recursion provides a simpler way to represent the factorial calculation through repeated function calls.Overall, this practical helped us understand the basic difference between iteration and recursion and how their space requirements can vary even when their time complexity is the same. It also gave us practical experience in measuring the execution time of both approaches.
